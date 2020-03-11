@@ -16,3 +16,9 @@ Al finalizar el laboratorio, el estudiante será capaz de:
 
 1. Escribir documentos con la sintaxis Markdown.
 2. Crear repositorios y documentos Markdown en GitHub.
+
+
+## Desarrollo
+### Creación de un repositorio en GitHub
+0. Si no tiene aún un usuario en [GitHub](https://github.com/), cree uno con la opción de `Sign Up` de la página principal (**Sugerencia**: seleccione el plan gratuito, es suficiente para completar este laboratorio y los otros de este curso).
+1. Cree un nuevo repositorio con la opción `New repository`.
