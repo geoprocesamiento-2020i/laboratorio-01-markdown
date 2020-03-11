@@ -9,7 +9,10 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+## Fecha de entrega
+
 ## Objetivos
 Al finalizar el laboratorio, el estudiante será capaz de:
 
-1. 
+1. Escribir documentos con la sintaxis Markdown.
+2. Crear repositorios y documentos Markdown en GitHub.
