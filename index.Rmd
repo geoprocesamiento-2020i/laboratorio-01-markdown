@@ -1,0 +1,15 @@
+---
+title: "GF-0604 Procesamiento de datos geográficos<br>Laboratorio 01: Markdown y R Markdown"
+author: "Manuel Vargas"
+date: "2020-03-12"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Objetivos
+Al finalizar el laboratorio, el estudiante será capaz de:
+
+1. 
