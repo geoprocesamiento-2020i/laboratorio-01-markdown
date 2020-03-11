@@ -2,7 +2,10 @@
 title: "GF-0604 Procesamiento de datos geográficos<br>Laboratorio 01: Markdown y R Markdown"
 author: "Manuel Vargas"
 date: "2020-03-12"
-output: html_document
+output: 
+  html_document:
+    toc: true
+    toc_float: true
 ---
 
 ```{r setup, include=FALSE}
