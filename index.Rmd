@@ -20,5 +20,5 @@ Al finalizar el laboratorio, el estudiante será capaz de:
 
 ## Desarrollo
 ### Creación de un repositorio en GitHub
-0. Si no tiene aún un usuario en [GitHub](https://github.com/), cree uno con la opción de `Sign Up` de la página principal (**Sugerencia**: seleccione el plan gratuito, es suficiente para completar este laboratorio y los otros de este curso).
-1. Cree un nuevo repositorio con la opción `New repository`.
+0. Si no tiene aún un usuario en [GitHub](https://github.com/), cree uno con la opción de `Sign Up` de la página principal (**Sugerencia**: seleccione el plan gratuito, es suficiente para completar este laboratorio y los restantes de este curso).
+1. Cree un nuevo repositorio con la opción `New repository` (con el `+` que está en la parte superior derecha). Denomínelo `mi-primer-repositorio` y marque la casilla `Initialize this repository with a README `.
